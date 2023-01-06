@@ -1,0 +1,25 @@
+{
+  "name": "braking-news",
+  "version": "1.0.0",
+  "description": "API para SPA braking news",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valderes/braking-news.git"
+  },
+  "keywords": [],
+  "author": "Valderes Zimmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valderes/braking-news/issues"
+  },
+  "homepage": "https://github.com/valderes/braking-news#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
